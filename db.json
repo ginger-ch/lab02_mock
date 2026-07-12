@@ -32,6 +32,17 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 2222222,
+      "category": "education",
+      "title": "Book Donation Drive",
+      "description": "Bring your gently used books to share with local schools.",
+      "location": "Reading Hills",
+      "date": "September 5, 2026",
+      "time": "09:00",
+      "petsAllowed": false,
+      "organizer": "Nova Lin"
     }
   ]
 }
